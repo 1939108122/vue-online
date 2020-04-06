@@ -7,3 +7,7 @@ npm run build 准备开发
     MIT  github master 最稳定的版本
     gh-pages 分支上把dist 目录下的代码搞过去
     把dist代码留下 其他删除 
+
+
+- jingjing
+- 2020.4.6
